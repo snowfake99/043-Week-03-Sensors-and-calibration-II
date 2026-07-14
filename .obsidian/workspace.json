@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "67030043/Homework 67030043.md",
+                "file": "67030043/Week-03-Lab-Report-03-LDR-and-calibration 1 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homework 67030043"
+              "title": "Week-03-Lab-Report-03-LDR-and-calibration 1 1"
             }
           }
         ]
@@ -207,15 +207,27 @@
   },
   "active": "914d1bc10e559287",
   "lastOpenFiles": [
-    "Week-03.md",
+    "67030043/image.png",
+    "ESP32_LAB_WEEK03/LDR/build/log/idf_py_stdout_output_46884",
+    "ESP32_LAB_WEEK03/LDR/build/log/idf_py_stderr_output_46884",
+    "ESP32_LAB_WEEK03/LDR/build/log/idf_py_stdout_output_56072",
+    "ESP32_LAB_WEEK03/LDR/build/log/idf_py_stderr_output_56072",
+    "ESP32_LAB_WEEK03/LDR/build/log/idf_py_stdout_output_47544",
+    "ESP32_LAB_WEEK03/LDR/build/log/idf_py_stderr_output_47544",
+    "ESP32_LAB_WEEK03/LDR/build/LDR_Calibration.bin",
+    "ESP32_LAB_WEEK03/LDR/build/LDR_Calibration.elf",
+    "ESP32_LAB_WEEK03/LDR/build/LDR_Calibration.map",
+    "ESP32_LAB_WEEK03/LDR/build/CMakeFiles/LDR_Calibration.elf.rsp",
+    "Week-03-Lab-sheet-03-LDR-and-calibration.md",
     "67030043/Homework 67030043.md",
-    "67030043",
+    "67030043/Week-03-Lab-Report-03-LDR-and-calibration 1 1.md",
+    "Week-03-Lab-sheet-03-LDR-and-calibration 1.md",
+    "Week-03.md",
     "Week-03-01_Physical_World.md",
     "Week-03-02-Digital-World.md",
     "Week-03-03-Physical to Electrical to Digital.md",
     "Week-03-04-Sensor-vs-Transducer.md",
     "Week-03-05-Signal-Integrity.md",
-    "Week-03-Lab-sheet-03-LDR-and-calibration.md",
     "README.md",
     "Images/Lab-Cover.png",
     "Images/Week-03-Cover.png",
